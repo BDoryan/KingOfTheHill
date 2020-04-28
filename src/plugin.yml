@@ -1,0 +1,7 @@
+main: doryan.koth.fr.Core
+name: LotaryKoTH
+version: 1.0.0
+author: Antox
+website: www.twitter.com/BDoryan
+commands:
+  koth:
